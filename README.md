@@ -5,7 +5,6 @@ Demo para Android de nuestra aplicación para la gestión de inventarios.
 Como una forma de darles a conocer nuestra metodología de trabajo y algunos demos funcionales,
 generalmente un release de la primera o segunda iteración de nuestros productos,
 les compartimos un demo para Android de nuestra aplicación para la gestión de inventarios.
-Además, la presentación de nuestra App Corporativa.
  
 Preparación:
  
